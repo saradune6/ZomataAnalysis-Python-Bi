@@ -1,6 +1,6 @@
 # Analysis-Zomato-data-with-python and Visualization with Power-Bi
-![image](https://github.com/ritikaga/Data-Analysis-of-Zomato-Restaurant/assets/66274316/c358d249-02e2-4bc2-932b-387fdf56d469)
 
+<img width="1800" alt="Dashboard snapshort" src="zo">
 ## Project Objective
 In this project, we investigate a dataset that carries approximate facts about restaurant chains all over the world. The project's main aim is to perform descriptive and statistical analysis based on a few goals designed.
 
@@ -16,7 +16,7 @@ The dataset's owner is Zomato and Kaggle is the source providing the data.
 * Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
 # :octocat:Dashboard👇
-<img width="1800" alt="Dashboard snapshort" src="https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7">
+<img width="1800" alt="Dashboard snapshort" src="dashboard.png">
 
 ## Questions
 The analysis that we are going to perform shall answer the following questions:
