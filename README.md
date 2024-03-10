@@ -1,6 +1,7 @@
 # Analysis-Zomato-data-with-python and Visualization with Power-Bi
 
-<img width="1800" alt="Dashboard snapshort" src="zo">
+<img width="1800" alt="Dashboard snapshort" src="zo.png">
+
 ## Project Objective
 In this project, we investigate a dataset that carries approximate facts about restaurant chains all over the world. The project's main aim is to perform descriptive and statistical analysis based on a few goals designed.
 
