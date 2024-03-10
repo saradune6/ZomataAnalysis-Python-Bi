@@ -15,6 +15,9 @@ The dataset's owner is Zomato and Kaggle is the source providing the data.
 * Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
 * Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
+# :octocat:Dashboard👇
+<img width="1800" alt="Dashboard snapshort" src="https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7">
+
 ## Questions
 The analysis that we are going to perform shall answer the following questions:
 
@@ -26,8 +29,6 @@ The analysis that we are going to perform shall answer the following questions:
 * In terms of the number of restaurants, which locality has the most?
 * Which Restaurants have Good Cuisine and an average rating?
 
-## Dashboard
-<img width="1800" alt="Dashboard snapshort" src="https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7">
 
 
 ## Conclusion
